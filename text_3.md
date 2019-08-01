@@ -1,5 +1,4 @@
-<head><meta charset="utf-8">
- </head>
+<meta charset="EUC-KR">
 
 
 ## 3. 대조
